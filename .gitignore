@@ -176,4 +176,7 @@ pyrightconfig.json
 # FastAPI setup
 fastapi/
 
+# VS Code
+.vscode/
+
 # End of https://www.toptal.com/developers/gitignore/api/python
